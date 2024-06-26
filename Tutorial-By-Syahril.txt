@@ -1,0 +1,30 @@
+tutorial git:
+git init
+git add . {tanda titik untuk mengupload semua filenya termasuk folder yang ada
+git commit -m "upload test"
+git branch -m main
+git remote add origin https://github.com/bert093/Pixiv_test.git {urlnya disesuaikan dengan yang dibuat}
+git push -u origin main
+
+
+untuk upload file terbaru yang belum di upload di repository yang sudah ada:
+git checkout
+git add namafilebaru1.dart namafilebaru2.html
+git commit -m "update baru"
+git push -u origin main
+
+
+
+untuk upload file terbaru dan yang di edit
+git init
+git add .
+git commit -m "update baru"
+git push
+
+
+UNTUK CLONE REPOSITORI ORANG ATAU DIRI SENDIRI:
+git clone https://oajsdqwlkjlas [KALAU HANYA GUNAKAN GIT CLONE SAJA HANYA MENG-CLONE REPOSITORI MAINNYA SAJA]
+git clone -b Branch_Kedua https://skdajljwq [GUNAKAN -B UNTUK CLONE REPOSITORI BRANCH YANG BERBEDA. PADA CONTOH INI ADALAH Branch_Kedua. SESUAIKAN HURUF BESAR DAN HURUF KECILNYA!]
+
+
+untuk lebih lanjut tanya saya. saya akan kasih tau gunakan github desktopnya!
