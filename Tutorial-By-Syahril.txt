@@ -28,3 +28,4 @@ git clone -b Branch_Kedua https://skdajljwq [GUNAKAN -B UNTUK CLONE REPOSITORI B
 
 
 untuk lebih lanjut tanya saya. saya akan kasih tau gunakan github desktopnya!
+tutorial dari youtube yang bagus: https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=37s&pp=ygUPZ2l0aHViIHR1dG9yaWFs
